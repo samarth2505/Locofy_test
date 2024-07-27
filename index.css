@@ -1,0 +1,362 @@
+.frame-child {
+  align-self: stretch;
+  height: 980px;
+  position: relative;
+  background-color: var(--color-gray);
+  display: none;
+  z-index: 1;
+}
+.nd-solar-service {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.blank-line {
+  margin: 0;
+}
+.p {
+  white-space: pre-wrap;
+}
+.blank-line1,
+.p {
+  margin: 0;
+}
+.amarpuramgmailcom {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.nd-solar-service-container {
+  margin: 0;
+  align-self: stretch;
+  height: 980px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  z-index: 1;
+}
+.frame-item {
+  align-self: stretch;
+  width: 255px;
+  position: relative;
+  background-color: var(--color-tomato);
+  display: none;
+}
+.call-us {
+  margin: 0;
+  height: 69px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+}
+.rectangle-group {
+  flex: 1;
+  background-color: var(--color-tomato);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+  z-index: 1;
+}
+.frame-container,
+.frame-wrapper,
+.rectangle-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-container {
+  width: 407px;
+  flex-direction: row;
+  padding: 0 76px;
+  box-sizing: border-box;
+  margin-top: -323px;
+  text-align: center;
+}
+.frame-wrapper,
+.rectangle-parent {
+  flex-direction: column;
+}
+.rectangle-parent {
+  align-self: stretch;
+  background-color: var(--color-gray);
+  min-height: 980px;
+}
+.frame-wrapper {
+  flex: 1;
+  padding: 13px 0 0;
+  box-sizing: border-box;
+  text-align: left;
+}
+.frame-inner {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  background-color: var(--color-tomato);
+  width: 303px;
+  height: 61px;
+  z-index: 1;
+}
+.mask-group-icon {
+  height: 205px;
+  width: 872px;
+  position: absolute;
+  margin: 0 !important;
+  right: -552px;
+  bottom: -176px;
+}
+.nd-solar-service1 {
+  margin: 0;
+  height: 65px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+}
+.mask-group-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 100%;
+}
+.rectangle-container {
+  height: 65px;
+  width: 308px;
+  position: relative;
+}
+.content,
+.rectangle-div {
+  position: relative;
+  max-width: 100%;
+}
+.rectangle-div {
+  height: 472px;
+  width: 872px;
+  background-color: var(--color-gainsboro);
+  display: none;
+}
+.content {
+  width: 415px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.frame-div,
+.frame-parent {
+  display: flex;
+  flex-direction: row;
+}
+.frame-div {
+  width: 872px;
+  margin: 0 !important;
+  position: absolute;
+  right: -552px;
+  bottom: 248px;
+  background-color: var(--color-gainsboro);
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding: var(--padding-191xl) 176px;
+  box-sizing: border-box;
+  min-height: 472px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.frame-parent {
+  width: 833px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: 45px;
+  min-width: 833px;
+  max-width: 100%;
+}
+.frame-child1 {
+  align-self: stretch;
+  width: 158px;
+  position: relative;
+  background-color: var(--color-tomato);
+  display: none;
+}
+.about-us,
+.about-us1 {
+  height: 93px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+}
+.about-us1 {
+  color: var(--color-white);
+  z-index: 3;
+  margin-left: -158px;
+}
+.about-us-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-child2,
+.rectangle-parent1 {
+  background-color: var(--color-tomato);
+}
+.rectangle-parent1 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-width: 103px;
+  z-index: 1;
+}
+.frame-child2 {
+  align-self: stretch;
+  width: 158px;
+  position: relative;
+  display: none;
+}
+.reviews {
+  height: 93px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+}
+.rectangle-parent2 {
+  flex: 1;
+  background-color: var(--color-tomato);
+  flex-direction: row;
+  min-width: 103px;
+  z-index: 1;
+  color: var(--color-white);
+}
+.frame-group,
+.new-home-page,
+.new-home-page-inner,
+.rectangle-parent2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-group {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 44px;
+}
+.new-home-page,
+.new-home-page-inner {
+  box-sizing: border-box;
+}
+.new-home-page-inner {
+  width: 360px;
+  flex-direction: column;
+  padding: var(--padding-191xl) 0 0;
+  min-width: 360px;
+  max-width: 100%;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.new-home-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: row;
+  padding: 10px 28px 21px;
+  gap: 141px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: var(--font-size-16xl);
+  color: var(--color-white);
+  font-family: var(--font-work-sans);
+}
+@media screen and (max-width: 1325px) {
+  .frame-parent,
+  .new-home-page-inner {
+    flex: 1;
+  }
+  .new-home-page {
+    flex-wrap: wrap;
+    gap: 70px;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .frame-parent {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 800px) {
+  .nd-solar-service-container,
+  .nd-solar-service1 {
+    font-size: var(--font-size-9xl);
+  }
+  .frame-parent {
+    flex-wrap: wrap;
+  }
+  .new-home-page {
+    gap: 35px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .nd-solar-service-container {
+    font-size: var(--font-size-2xl);
+  }
+  .frame-container {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .nd-solar-service1 {
+    font-size: var(--font-size-2xl);
+  }
+  .content {
+    font-size: var(--font-size-base);
+  }
+  .frame-parent {
+    gap: var(--gap-3xl);
+  }
+  .about-us,
+  .about-us1,
+  .reviews {
+    font-size: var(--font-size-base);
+  }
+  .frame-group {
+    flex-wrap: wrap;
+    gap: var(--gap-3xl);
+  }
+  .new-home-page-inner {
+    min-width: 100%;
+  }
+  .new-home-page {
+    gap: 18px;
+  }
+}
